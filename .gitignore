@@ -1,8 +1,8 @@
 # Sons et photos : non publiés (poids et droits d'auteur), voir le README
-GEO_FRANCE/data/Sons/*
-GEO_FRANCE/data/Images/*
-!GEO_FRANCE/data/Sons/.gitkeep
-!GEO_FRANCE/data/Images/.gitkeep
+code/GEO_FRANCE/data/Sons/*
+code/GEO_FRANCE/data/Images/*
+!code/GEO_FRANCE/data/Sons/.gitkeep
+!code/GEO_FRANCE/data/Images/.gitkeep
 
 # Fichiers générés par Processing et par le système
 *.class
